@@ -21,6 +21,6 @@
 ##
 
 <div><a href="mailto:jootavioalmeida@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="wa.me/5543991433845"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></div>
+<a href="https://w.app/aEvLKA"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></div>
 
 
